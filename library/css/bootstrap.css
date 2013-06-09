@@ -6177,19 +6177,40 @@ a.badge:focus {
 }
 
 h1 {
-  letter-spacing: -3px;
+  font-size: 32px;
 }
 
 h2 {
-  letter-spacing: -2px;
+  font-size: 28px;
 }
 
 h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h1 {
   letter-spacing: -2px;
+}
+
+h2 {
+  letter-spacing: -1px;
+}
+
+h3 {
+  letter-spacing: -1px;
 }
 
 h4 {
   letter-spacing: -1px;
+}
+
+.lead {
+  font-size: 16px;
+  line-height: 22px;
 }
 
 .h2 a {
